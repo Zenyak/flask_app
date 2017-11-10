@@ -11,6 +11,7 @@ class god():
 
 
 class godness():
+    print("what is the difference?")
     pass
 
 
