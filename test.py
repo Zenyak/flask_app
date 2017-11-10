@@ -6,6 +6,7 @@ print(sys.version)
 
 
 class god():
+    print("for the glory")
     pass
 
 
